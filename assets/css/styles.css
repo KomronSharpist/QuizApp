@@ -676,6 +676,6 @@ footer button.show{
     padding-left:10px ;
     margin-right: 5px;
 }
-.info,.title,.que_text,.option,.total_que,.complete_text,.score_text{
+.info,.title,.que_text,.option,.total_que,.complete_text,.score_text,.info-title{
   color: black !important;
 }
